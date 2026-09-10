@@ -1,0 +1,62 @@
+{
+  "docVersion": "1.0.0",
+  "resource": {
+    "name": "Day_2a",
+    "kind": "process",
+    "type": "process",
+    "apiVersion": "orchestrator.uipath.com/v1",
+    "projectKey": "b9731af2-3c40-4dc3-bb9c-1f242502e04a",
+    "isOverridable": true,
+    "dependencies": [
+      {
+        "name": "Day_2a",
+        "kind": "package"
+      }
+    ],
+    "runtimeDependencies": [],
+    "files": [],
+    "folders": [
+      {
+        "fullyQualifiedName": "solution_folder"
+      }
+    ],
+    "spec": {
+      "entryPointUniqueId": null,
+      "inputArgumentsSchema": null,
+      "outputArgumentsSchema": null,
+      "inputArgumentsSchemaV2": null,
+      "outputArgumentsSchemaV2": null,
+      "type": "Process",
+      "name": "Day_2a",
+      "description": null,
+      "package": {
+        "key": "f8ffccdf-9386-41fc-b85b-39b2544905a3"
+      },
+      "packageName": null,
+      "packageVersion": null,
+      "entryPointName": null,
+      "inputArguments": null,
+      "jobPriority": "Medium",
+      "hiddenForAttendedUser": false,
+      "alwaysRunning": false,
+      "autoStartProcess": false,
+      "jobRecording": "Disabled",
+      "targetFrameworkValue": "Portable",
+      "duration": 40,
+      "frequency": 500,
+      "quality": 100,
+      "remoteControlAccess": "None",
+      "retentionAction": "Delete",
+      "retentionPeriod": 30,
+      "retentionBucketRef": null,
+      "staleRetentionAction": "Delete",
+      "staleRetentionPeriod": 180,
+      "staleRetentionBucketRef": null,
+      "entryPoints": null,
+      "connections": null,
+      "tags": []
+    },
+    "locks": [],
+    "key": "55a7cc0d-1863-45a9-a6c2-991619b88c38"
+  }
+}

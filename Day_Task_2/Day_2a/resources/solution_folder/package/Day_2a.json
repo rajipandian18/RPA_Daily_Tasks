@@ -1,0 +1,26 @@
+{
+  "docVersion": "1.0.0",
+  "resource": {
+    "name": "Day_2a",
+    "kind": "package",
+    "apiVersion": "orchestrator.uipath.com/v1",
+    "projectKey": "b9731af2-3c40-4dc3-bb9c-1f242502e04a",
+    "isOverridable": true,
+    "dependencies": [],
+    "runtimeDependencies": [],
+    "files": [],
+    "folders": [
+      {
+        "fullyQualifiedName": "solution_folder"
+      }
+    ],
+    "spec": {
+      "fileName": null,
+      "fileReference": null,
+      "name": "Day_2a",
+      "description": null
+    },
+    "locks": [],
+    "key": "f8ffccdf-9386-41fc-b85b-39b2544905a3"
+  }
+}
